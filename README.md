@@ -70,7 +70,7 @@ Based on the analysis, we recommend the following actions:
 
 ### Limitations
 
-These initial findings may spark some interest, but further analysis would be needed for more concrete results. For example, it would be helpful to group certain platforms as they originate from the same publisher, such as the PS, PS2, PS3. Afterwards, another analysis can be done to compare publishers to ascertain which publisher is top-tier. Also, knowing why a certain game outperforms others would be helpful as that can be used to gauge on why it became popular and in demand.
+These initial findings may spark some interest, but further analysis would be needed for more concrete results. For example, it would be helpful to group certain platforms as they originate from the same publisher, such as the PS, PS2, PS3. Afterwards, another analysis can be done to compare publishers to ascertain which publisher is top-tier. Also, knowing why a certain game outperforms others would be helpful as that can be used to gauge on why it became popular and in demand. Examples could be, was there any advertisments involved, was the game a sequel to an already successful game, or was the trailer that exciting that grabbed the potential customer's attention from the start?
 
 ### Complimentary Visualization
 
